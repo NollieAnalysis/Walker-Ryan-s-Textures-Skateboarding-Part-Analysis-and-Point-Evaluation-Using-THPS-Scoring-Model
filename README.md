@@ -1,5 +1,10 @@
 # Walker Ryan’s Textures Skateboarding Part Analysis and Point Evaluation Using Tony Hawk’s Pro Skater (THPS) Scoring Model
 
+# Project deliverables:
+Analysis of Walker Ryan's Textures skate part. Additionally, an exploration of applying Tony Hawk’s Pro Skater (THPS) scoring model to real skateboarding.
+
+Analysis, code, and backup documents saved to this repository.
+
 # Python code (also saved as a .py file)
 
 ```python
