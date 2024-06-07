@@ -124,6 +124,7 @@ print(tricks_data[tricks_data['Clip'] == 22].iloc[:,:]) # checking switch nose m
 # upload data
 #######################
 
+# packages = ggplot2 and tidyverse
 
 obstacle_trick_types_tricks_counts_dfs_combined <- read.csv("/obstacle_trick_types_tricks_counts_dfs_combined.csv")
 head(obstacle_trick_types_tricks_counts_dfs_combined)
