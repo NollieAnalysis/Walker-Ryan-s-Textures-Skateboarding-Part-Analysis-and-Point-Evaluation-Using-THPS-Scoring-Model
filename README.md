@@ -85,6 +85,8 @@ def calculate_final_points(row, use_pal=True):
     points = (base_points * switch_multiplier) + hold_points
 
     return points, spin_multiplier
+# If there were repeated tricks, points formula shall be updated to: 
+#points = ((base points * repeating penalty) * switch multiplier) + hold points
 
 # Apply the function to calculate points and spin multipliers
 tricks_data[['Points', 'Spin_Multiplier']] = tricks_data.apply(lambda row: calculate_final_points(row), axis=1, result_type='expand')
