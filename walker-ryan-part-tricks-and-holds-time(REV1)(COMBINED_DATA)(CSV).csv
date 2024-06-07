@@ -1,0 +1,137 @@
+Clip,Trick,Base_Points,Switch_Multiplier_Base_Pts,Spin_Multiplier_Trick_Total,Hold_Time_Sec,PAL_50_FPS_50_PTS_Sec,NTSC_60_FPS_60_PTS_Sec,Total_PAL_Points,Total_NTSC_Points
+1,Frontside 5-0,100,,,0.25,50,60,12.5,15
+2,Back disaster,800,,,,50,60,0,0
+3,Back blunt slide,125,,,0.25,50,60,12.5,15
+4,360 flip,500,,,,50,60,0,0
+4,Frontside 180,18,,1.5,,50,60,0,0
+4,Heelflip,100,,,,50,60,0,0
+4,Melon,300,,,1,50,60,50,60
+4,Nollie,200,,,,50,60,0,0
+4,Nose manual,0,,,1,50,60,50,60
+5,360 flip,500,,,,50,60,0,0
+5,360 flip,500,,,,50,60,0,0
+5,Frontside noseblunt,150,,,0.5,50,60,25,30
+5,Frontside shove-it,100,,,,50,60,0,0
+5,Heelflip,100,,,,50,60,0,0
+5,Nollie,200,,,,50,60,0,0
+5,Nollie,200,,,,50,60,0,0
+5,Ollie,0,,,,50,60,0,0
+6,Backside nosegrind,109,,,0.75,50,60,37.5,45
+6,Kickflip,100,,,,50,60,0,0
+6,Nollie,200,,,,50,60,0,0
+7,Switch backside 360,36,1.2,2,,50,60,0,0
+8,Switch 360 flip,500,1.2,,,50,60,0,0
+8,Switch backside 180,18,1.2,1.5,,50,60,0,0
+9,Backside tailslide,150,,,0.25,50,60,12.5,15
+9,Frontside 180,18,,1.5,,50,60,0,0
+9,Frontside nosegrind,183,,,0.25,50,60,12.5,15
+9,Frontside shove-it,100,,,,50,60,0,0
+9,Kickflip,100,,,,50,60,0,0
+9,Shove-it,100,,,,50,60,0,0
+10,Backside 180,18,,1.5,,50,60,0,0
+10,Backside 5-0,100,,,1.25,50,60,62.5,75
+10,Switch shove-it,100,1.2,,,50,60,0,0
+11,Manual,0,,,1,50,60,50,60
+11,Switch backfoot impossible,100,1.2,,,50,60,0,0
+12,Backside 180,18,,1.5,,50,60,0,0
+12,Frontside lipslide,200,,,0.25,50,60,12.5,15
+12,Frontside nosegrind,183,,,0.25,50,60,12.5,15
+12,Kickflip,100,,,,50,60,0,0
+12,Kickflip,100,,,,50,60,0,0
+12,Manual,0,,,1,50,60,50,60
+12,Nollie,200,,,,50,60,0,0
+13,Backside 180,18,,1.5,,50,60,0,0
+13,Nollie,200,,,,50,60,0,0
+13,Nose manual,0,,,2,50,60,100,120
+13,Switch backside crooked,125,1.2,,0.25,50,60,12.5,15
+14,Kickflip,100,,,,50,60,0,0
+15,Backside 180,18,,1.5,,50,60,0,0
+15,Frontside noseslide,183,,,1,50,60,50,60
+15,Nollie ,200,,,,50,60,0,0
+15,Ollie,0,,,,50,60,0,0
+15,Switch backfoot impossible,100,1.2,,,50,60,0,0
+16,Manual,0,,,0.75,50,60,37.5,45
+16,Switch 360 flip,500,1.2,,,50,60,0,0
+17,Backfoot impossible,100,,,,50,60,0,0
+17,Ollie,0,,,,50,60,0,0
+18,Frontside noseblunt,150,,,0.25,50,60,12.5,15
+19,Backside 360,36,,2,,50,60,0,0
+19,Nollie ,200,,,,50,60,0,0
+19,Ollie,0,,,,50,60,0,0
+20,Kickflip,100,,,,50,60,0,0
+20,Manual,0,,,3,50,60,150,180
+20,Nose manual,0,,,3,50,60,150,180
+21,Frontside shove-it,100,,,,50,60,0,0
+21,Ollie,0,,,,50,60,0,0
+21,Ollie,0,,,,50,60,0,0
+21,Switch 360 shove-it,500,1.2,,,50,60,0,0
+21,Switch backside 180,18,1.2,1.5,,50,60,0,0
+22,Switch kickflip,100,1.2,,,50,60,0,0
+22,Switch nose manual,0,1.2,,2,50,60,100,120
+23,Nollie,200,,,,50,60,0,0
+23,Nollie ,200,,,,50,60,0,0
+23,Nose manual,0,,,1.25,50,60,62.5,75
+23,Shove-it,100,,,,50,60,0,0
+23,Varial kickflip,300,,,,50,60,0,0
+24,Frontside 180,18,,1.5,,50,60,0,0
+24,Frontside 5-0,100,,,0.25,50,60,12.5,15
+24,Nollie ,200,,,,50,60,0,0
+24,Shove-it,100,,,,50,60,0,0
+24,Switch backside 270,27,1.2,1.75,,50,60,0,0
+24,Switch frontside tailslide,150,1.2,,0.5,50,60,25,30
+25,Ollie,0,,,,50,60,0,0
+25,Ollie gap to frontside tailslide to gap out to fakie,150,,,0.75,50,60,37.5,45
+26,Backside 50-50,42,,,1,50,60,50,60
+26,Hippie jump,150,,,,50,60,0,0
+27,Backside 180,18,,1.5,,50,60,0,0
+27,Kickflip,100,,,,50,60,0,0
+27,Ollie,0,,,,50,60,0,0
+28,Switch backside 180,18,1.2,1.5,,50,60,0,0
+28,Switch kickflip,100,1.2,,,50,60,0,0
+28,Switch ollie,0,1.2,,,50,60,0,0
+29,Frontside 180,18,,1.5,,50,60,0,0
+29,Frontside 180,18,,1.5,,50,60,0,0
+29,Heelflip,100,,,,50,60,0,0
+29,Kickflip,100,,,,50,60,0,0
+29,Nollie ,200,,,,50,60,0,0
+29,Switch frontside 180,18,1.2,1.5,,50,60,0,0
+30,Backside 50-50,42,,,0.5,50,60,25,30
+30,Kickflip,100,,,,50,60,0,0
+30,Ollie,0,,,,50,60,0,0
+31,Hill bomb,0,,,,50,60,0,0
+31,Kickflip,100,,,,50,60,0,0
+31,Ollie,0,,,,50,60,0,0
+32,Switch backfoot impossible,100,1.2,,,50,60,0,0
+33,Backside nosegrind,109,,,1.25,50,60,62.5,75
+33,Switch backside 180,18,1.2,1.5,,50,60,0,0
+34,Fakie ollie,0,,,,50,60,0,0
+34,Kickflip,100,,,,50,60,0,0
+34,Switch backside nosegrind,100,1.2,,1,50,60,50,60
+35,Backside 180,18,,1.5,,50,60,0,0
+35,Kickflip,100,,,,50,60,0,0
+35,Nollie,200,,,,50,60,0,0
+35,Nose manual,0,,,1,50,60,50,60
+36,Hippie jump,150,,,,50,60,0,0
+36,Nose manual,0,,,1.5,50,60,75,90
+37,Kickflip,100,,,,50,60,0,0
+37,Switch backside 180,18,1.2,1.5,,50,60,0,0
+38,360 flip,500,,,,50,60,0,0
+38,Nollie ,200,,,,50,60,0,0
+39,Switch 360 flip,500,1.2,,,50,60,0,0
+39,Switch ride off,0,1.2,,,50,60,0,0
+40,Backside 50-50,42,,,0.5,50,60,25,30
+41,Varial heelflip,300,,,,50,60,0,0
+42,Frontside 180,18,,1.5,,50,60,0,0
+42,Switch 360 shove-it,500,1.2,,,50,60,0,0
+42,Switch backside 180,18,1.2,1.5,,50,60,0,0
+43,Switch varial kickflip,300,1.2,,,50,60,0,0
+44,Switch 360 shove-it,500,1.2,,,50,60,0,0
+44,Switch backside 180,18,1.2,1.5,,50,60,0,0
+45,360 shove-it,500,,,,50,60,0,0
+45,Backside 180,18,,1.5,,50,60,0,0
+45,Nollie ,200,,,,50,60,0,0
+46,Backside 360,36,,2,,50,60,0,0
+46,Kickflip,100,,,,50,60,0,0
+46,Nollie ,200,,,,50,60,0,0
+47,Switch backside 360,36,1.2,2,,50,60,0,0
+47,Switch kickflip,100,1.2,,,50,60,0,0

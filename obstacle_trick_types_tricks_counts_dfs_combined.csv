@@ -1,0 +1,60 @@
+Obstacle,Count,Clip,Obstacle_Count,Trick_Type,Count,Clip,Trick_Type_Count,Trick,Count,Clip,Trick_Count
+Ledge,25,1,1,Flip,27,1,1,Ollie,10,1,1
+Stairs,22,2,1,Grind,20,2,1,Switch backside bigspin,3,2,1
+Gap,11,3,1,Ollie,12,3,1,Frontside 180 kickflip,2,3,1
+Manual Pad,10,4,4,Manual,11,4,4,Kickflip,2,4,4
+Flat,5,5,5,Spin,5,5,5,Switch backside 180 kickflip,2,5,5
+Transition,4,6,1,Lip,1,6,1,Frontside noseblunt,2,6,1
+Rail,1,7,1,Grab,1,7,1,Frontside shove-it,2,7,1
+,,8,1,Hill bomb,1,8,1,Nollie 360 flip,2,8,1
+,,9,3,,,9,3,Nollie frontside heelflip,2,9,3
+,,10,1,,,10,1,Nose manual,2,10,1
+,,11,1,,,11,1,Backside 50-50 to hippie jump out,1,11,1
+,,12,3,,,12,3,Switch backside 180 to backside nosegrind,1,12,3
+,,13,2,,,13,2,Ollie gap to frontside tailslide to gap out to fakie,1,13,2
+,,14,1,,,14,1,Backside 180 kickflip,1,14,1
+,,15,3,,,15,3,Switch ollie,1,15,3
+,,16,1,,,16,1,Switch backside 270 to switch frontside tailslide to regular out,1,16,1
+,,17,2,,,17,2,Switch frontside 180,1,17,2
+,,18,1,,,18,1,Kickflip backside 50-50 to firecracker down stairs out,1,18,1
+,,19,2,,,19,2,Hill bomb,1,19,2
+,,20,2,,,20,2,Switch backfoot impossible,1,20,2
+,,21,4,,,21,4,Front 5-0,1,21,4
+,,22,1,,,22,1,Fakie kickflip to switch backside nosegrind,1,22,1
+,,23,1,,,23,1,Nose manual to nollie backside 180 kickflip out,1,23,1
+,,24,2,,,24,2,Nollie shove-it to nose manual nollie vairal kickflip out,1,24,2
+,,25,2,,,25,2,Nose manual to hippie jump out,1,25,2
+,,26,1,,,26,1,Switch 360 flip,1,26,1
+,,27,2,,,27,2,Switch ride off,1,27,2
+,,28,2,,,28,2,Backside 50-50,1,28,2
+,,29,3,,,29,3,Varial heelflip,1,29,3
+,,30,2,,,30,2,Frontside 180,1,30,2
+,,31,3,,,31,3,Switch varial kickflip,1,31,3
+,,32,1,,,32,1,Nollie backside bigspin,1,32,1
+,,33,1,,,33,1,Nollie backside 360 kickflip,1,33,1
+,,34,1,,,34,1,Nollie shove-it to frontside 5-0 to frontside 180 out,1,34,1
+,,35,1,,,35,1,Backfoot impossible,1,35,1
+,,36,1,,,36,1,Switch kickflip to switch nose manual,1,36,1
+,,37,1,,,37,1,Manual kickflip out,1,37,1
+,,38,1,,,38,1,Back blunt slide,1,38,1
+,,39,2,,,39,2,Melon,1,39,2
+,,40,1,,,40,1,360 flip,1,40,1
+,,41,1,,,41,1,Nollie heelflip,1,41,1
+,,42,2,,,42,2,Backside nosegrind nollieflip out,1,42,2
+,,43,1,,,43,1,Switch backside 360,1,43,1
+,,44,1,,,44,1,Switch backside bigflip,1,44,1
+,,45,1,,,45,1,Backside tailslide shove-it out,1,45,1
+,,46,1,,,46,1,Frontside shove-it front nosegrind,1,46,1
+,,47,1,,,47,1,Switch shove-it backside 5-0 backside 180 out,1,47,1
+,,,,,,,,Switch backfoot impossible manual,1,,
+,,,,,,,,Manual to ollie gap to frontside lipside,1,,
+,,,,,,,,Frontside lipslide,1,,
+,,,,,,,,Frontside nosegrind to nollie backside flip out,1,,
+,,,,,,,,Nose manual to nollie backside 180 to switch backside crooked,1,,
+,,,,,,,,Switch backside crooked,1,,
+,,,,,,,,Nollie backside 180,1,,
+,,,,,,,,Switch backfoot impossible frontside noseslide,1,,
+,,,,,,,,Switch 360 flip manual,1,,
+,,,,,,,,Back disaster,1,,
+,,,,,,,,Nollie backside 360,1,,
+,,,,,,,,Switch backside 360 kickflip,1,,

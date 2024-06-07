@@ -1,0 +1,79 @@
+Video,Clip,Obstacle,Trick_Type,Trick,Hold_Time_Sec
+Textures,1,Transition,Grind,Front 5-0,0.25
+Textures,2,Transition,Lip,Back disaster,
+Textures,3,Transition,Grind,Back blunt slide,0.25
+Textures,4,Transition,Grab,Melon,1
+Textures,4,Ledge,Manual,Nose manual,1
+Textures,4,Flat,Flip,360 flip,
+Textures,4,Flat,Flip,Nollie frontside heelflip,
+Textures,5,Ledge,Ollie,Ollie,
+Textures,5,Gap,Flip,Frontside shove-it,
+Textures,5,Flat,Flip,Nollie heelflip,
+Textures,5,Flat,Flip,Nollie 360 flip,
+Textures,5,Ledge,Grind,Frontside noseblunt,0.5
+Textures,6,Ledge,Grind,Backside nosegrind nollieflip out,0.75
+Textures,7,Stairs,Spin,Switch backside 360,
+Textures,8,Stairs,Flip,Switch backside bigflip,
+Textures,9,Ledge,Grind,Backside tailslide shove-it out,0.25
+Textures,9,Ledge,Grind,Frontside shove-it front nosegrind,0.25
+Textures,9,Stairs,Flip,Frontside 180 kickflip,
+Textures,10,Ledge,Grind,Switch shove-it backside 5-0 backside 180 out,1.25
+Textures,11,Manual Pad,Manual,Switch backfoot impossible manual,1
+Textures,12,Manual Pad,Manual,Manual to ollie gap to frontside lipside,1
+Textures,12,Ledge,Grind,Frontside lipslide,0.25
+Textures,12,Ledge,Grind,Frontside nosegrind to nollie backside flip out,0.25
+Textures,13,Manual Pad,Manual,Nose manual to nollie backside 180 to switch backside crooked,2
+Textures,13,Ledge,Grind,Switch backside crooked,0.25
+Textures,14,Stairs,Flip,Kickflip,
+Textures,15,Ledge,Ollie,Ollie,
+Textures,15,Gap,Spin,Nollie backside 180,
+Textures,15,Ledge,Grind,Switch backfoot impossible frontside noseslide,1
+Textures,16,Manual Pad,Manual,Switch 360 flip manual,0.75
+Textures,17,Ledge,Ollie,Ollie,
+Textures,17,Gap,Flip,Backfoot impossible,
+Textures,18,Ledge,Grind,Frontside noseblunt,0.25
+Textures,19,Ledge,Ollie,Ollie,
+Textures,19,Gap,Spin,Nollie backside 360,
+Textures,20,Manual Pad,Manual,Manual kickflip out,3
+Textures,20,Manual Pad,Manual,Nose manual,3
+Textures,21,Stairs,Flip,Switch backside bigspin,
+Textures,21,Stairs,Ollie,Ollie,
+Textures,21,Stairs,Ollie,Ollie,
+Textures,21,Stairs,Flip,Frontside shove-it,
+Textures,22,Manual Pad,Manual,Switch kickflip to switch nose manual,2
+Textures,23,Manual Pad,Manual,Nollie shove-it to nose manual nollie vairal kickflip out,1.25
+Textures,24,Ledge,Grind,Nollie shove-it to frontside 5-0 to frontside 180 out,0.25
+Textures,24,Ledge,Grind,Switch backside 270 to switch frontside tailslide to regular out,0.5
+Textures,25,Ledge,Ollie,Ollie,
+Textures,25,Ledge,Grind,Ollie gap to frontside tailslide to gap out to fakie,0.75
+Textures,26,Ledge,Grind,Backside 50-50 to hippie jump out,1
+Textures,27,Ledge,Ollie,Ollie,
+Textures,27,Gap,Flip,Backside 180 kickflip,
+Textures,28,Ledge,Ollie,Switch ollie,
+Textures,28,Gap,Flip,Switch backside 180 kickflip,
+Textures,29,Stairs,Spin,Switch frontside 180,
+Textures,29,Stairs,Flip,Nollie frontside heelflip,
+Textures,29,Stairs,Flip,Frontside 180 kickflip,
+Textures,30,Stairs,Ollie,Ollie,
+Textures,30,Ledge,Grind,Kickflip backside 50-50 to firecracker down stairs out,0.5
+Textures,31,Gap,Ollie,Ollie,
+Textures,31,Gap,Flip,Kickflip,
+Textures,31,Flat,Hill bomb,Hill bomb,
+Textures,32,Gap,Flip,Switch backfoot impossible,
+Textures,33,Ledge,Grind,Switch backside 180 to backside nosegrind,1.25
+Textures,34,Ledge,Grind,Fakie kickflip to switch backside nosegrind,1
+Textures,35,Manual Pad,Manual,Nose manual to nollie backside 180 kickflip out,1
+Textures,36,Manual Pad,Manual,Nose manual to hippie jump out,1.5
+Textures,37,Stairs,Flip,Switch backside 180 kickflip,
+Textures,38,Stairs,Flip,Nollie 360 flip,
+Textures,39,Gap,Flip,Switch 360 flip,
+Textures,39,Gap,Ollie,Switch ride off,
+Textures,40,Rail,Grind,Backside 50-50,0.5
+Textures,41,Stairs,Flip,Varial heelflip,
+Textures,42,Stairs,Spin,Frontside 180,
+Textures,42,Stairs,Flip,Switch backside bigspin,
+Textures,43,Stairs,Flip,Switch varial kickflip,
+Textures,44,Stairs,Flip,Switch backside bigspin,
+Textures,45,Stairs,Flip,Nollie backside bigspin,
+Textures,46,Stairs,Flip,Nollie backside 360 kickflip,
+Textures,47,Stairs,Flip,Switch backside 360 kickflip,
