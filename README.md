@@ -1,1 +1,1 @@
-# Walker-Ryans-Textures-Skateboarding-Part-Analysis-and-Point-Evaluation-Using-THPS-Scoring-Model 
+# Walker Ryan’s Textures Skateboarding Part Analysis and Point Evaluation Using Tony Hawk’s Pro Skater (THPS) Scoring Model
